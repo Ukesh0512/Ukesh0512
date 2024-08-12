@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **APIs, Django, FlasK, MongoDB**
 
-- 💬 Ask me about **APIs, Django, FlasK, MongoDB**
+- 💬 Ask me about **APIs, Django, Flask, MongoDB**
 
 - 📫 How to reach me **ukesh0512@gmail.com**
 
