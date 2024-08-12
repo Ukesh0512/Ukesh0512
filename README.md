@@ -1,4 +1,4 @@
-[![MasterHead](https://bytestechnolab.com/wp-content/uploads/2021/10/image1.gif)](https://ukesh.io)
+[![MasterHead](https://thumbs.dreamstime.com/b/back-end-developer-typographic-header-software-development-process-website-architecture-improvement-programming-coding-240861958.jpg?w=1400.gif)](https://ukesh.io)
 <h1 align="center">Hi 👋, I'm Ukesh Annadurai</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
